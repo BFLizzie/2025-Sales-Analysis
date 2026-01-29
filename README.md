@@ -26,7 +26,7 @@ Data cleaning was carried out manually in Microsoft Excel to ensure accuracy, co
 - Reviewed and handled missing or blank values appropriately
 
 ## Section Details
-### Column names:Date, Region, Product, Category, Unit sold, Unit price, Sales rep, Customer, Total revenue, Sum of Total Revenue, Max revenue and Min revenue.
+### Column names : Date, Region, Product, Category, Unit sold, Unit price, Sales rep, Customer, Total revenue, Sum of Total Revenue, Max revenue and Min revenue.
 ## Analytical Dashboard
 <img width="926" height="683" alt="image" src="https://github.com/user-attachments/assets/f44410ea-2922-4136-afb2-2a5669c0833e" />
 
